@@ -1,0 +1,6 @@
+C:\Users\snifle\Documents\JS\Lab3_200413629\obj\Debug\Lab3_200413629.njsprojAssemblyReference.cache
+C:\Users\snifle\Documents\JS\Lab3_200413629\obj\Debug\Lab3_200413629.njsproj.CoreCompileInputs.cache
+C:\Users\snifle\Documents\JS\Lab3_200413629\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\snifle\Documents\GitHub\comp2068-lab3\obj\Debug\Lab3_200413629.njsprojAssemblyReference.cache
+C:\Users\snifle\Documents\GitHub\comp2068-lab3\obj\Debug\Lab3_200413629.njsproj.CoreCompileInputs.cache
+C:\Users\snifle\Documents\GitHub\comp2068-lab3\bin\Microsoft.NodejsTools.WebRole.dll
